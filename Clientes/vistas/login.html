@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Clientes</title>
+  <!-- Tell the browser to be responsive to screen width -->
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+  <!-- Bootstrap 3.3.7 -->
+  <link rel="stylesheet" href="../../public/css/bootstrap.min.css">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="../../public/css/font-awesome.min.css">
+
+  <link rel="stylesheet" href="../../public/css/AdminLTE.min.css">
+  <link rel="stylesheet" href="../../public/css/_all-skins.min.css">
+  <link rel="stylesheet" href="../../public/css/estilos.css">
+  <!-- Morris chart --><!-- Daterange picker -->
+  
+</head>
+<body class="hold-transition login-page" style="background-image: radial-gradient(circle at 46.5% 9.99%, #cab3ff 0, #9f90f4 25%, #6c6cd8 50%, #274bbd 75%, #0030a5 100%);">
+  
+  <div class="login-box">
+  <div class="login-logo">
+    <a href="../../index.html" ><img src="../../images/tienda.png" alt=""  height='100px' width='180px'  ></a>
+  </div>
+  <!-- /.login-logo -->
+  <div class="login-box-body" >
+    <p class="login-box-msg">Iniciar sesión</p>
+
+    <form  method="post" id="frmAcceso">
+      <div class="form-group has-feedback" >
+        <input type="text" id="logina" style="border-radius: 8px;" name="logina" class="form-control" placeholder="Usuario" required autocomplete="off">
+        <span class="fa fa-user form-control-feedback" style="color: blue;"></span>
+      </div>
+      <div class="form-group has-feedback">
+        <input type="password" id="clavea" style="border-radius: 8px;" name="clavea" class="form-control" placeholder="Password" required autocomplete="off">
+        <span class="fa fa-lock form-control-feedback" style="color:blue"></span>
+      </div>
+      <div class="row">
+        <div class="col-xs-8">
+        
+        </div>
+        <!-- /.col -->
+        <div class="col-xs-6">
+          
+         <button type="submit" class="btn btn-primary btn-block btn-flat" style="color: #ffffff; background: linear-gradient(to right, blue, rgb(79, 102, 235)); border-radius: 8px;" ><strong>Entrar</strong></button>
+   </div>
+        <!-- /.col -->
+      </div>
+    </form>
+    <br>
+    
+  
+    <input type="checkbox" id="btn-modal">
+	<center><label for="btn-modal" class="lbl-modal">Crear cuenta </label></center>
+	<div class="modal" style="overflow-y: scroll; max-height:85%;  margin-top: 50px; margin-bottom:50px;">
+		<div class="contenedor">
+			<center><header><strong> Registro </strong></header></center>
+			<label for="btn-modal">X</label>
+			<div class="contenido">
+				<div class="panel-body panel-solicitud" id="formularioregistros" >
+          <form  action="../validar.php" id="perfil" method="POST" enctype="multipart/form-data">
+        
+        
+            
+          <div  class="form-group col-lg-9 col-md-9col-xs-12">
+        
+         
+            <div class="form-group col-lg-12 col-md-12 col-xs-12">
+              
+              <input class="form-control" type="text" name="nombre" id="nombre" maxlength="2512" placeholder="Nombre " autocomplete="off" required  >
+              <span class="fa fa-address-book form-control-feedback" style="color:blue"></span>
+            </div> 
+            </br>
+          </br>
+        </br>
+
+        <div class="form-group col-lg-12 col-md-12 col-xs-12">
+              
+          <input class="form-control" type="text" name="direccion" id="direccion" maxlength="258" placeholder="Dirección" autocomplete="off" required  >
+          <span class="fa fa-address-card form-control-feedback" style="color:blue"></span>
+        </div>
+       <br><br><br>
+        
+            <div class="form-group col-lg-12 col-md-12 col-xs-12">
+               
+              <input class="form-control" type="text" name="email" id="email" maxlength="2512" placeholder="Correo electronico" autocomplete="off" required  >
+              <span class="fa fa-envelope form-control-feedback" style="color:blue"></span>
+             </div>
+            </br></br><br>
+            <div class="form-group col-lg-12 col-md-12 col-xs-12">
+              
+              <input class="form-control" type="text" name="login" id="login" maxlength="258" placeholder="Usuario de acceso" autocomplete="off" required  >
+              <span class="fa fa-user form-control-feedback" style="color:blue"></span>
+            </div>
+           <br><br><br>
+           
+           
+            <div class="form-group col-lg-12 col-md-12 col-xs-12">
+              
+              <input class="form-control" type="password" name="clave" id="clave" maxlength="256" placeholder="Contraseña" autocomplete="off" required  >
+              <span class="fa fa-lock form-control-feedback" style="color:blue"></span>
+            </div>
+        
+             <div class="form-group col-lg-6 col-md-6 col-xs-12">
+        
+              <div class="form-group col-lg-8 col-md-8 col-sm-12 col-xs-12">
+            <center>
+            <br><br>
+              <input type="submit"  value="Crear tu cuenta"  style="color: #ffffff; background: linear-gradient(to right, blue, rgb(79, 102, 235)); border-radius: 8px;"class="btn btn-Warning"><i class="fa fa-"   > </i>
+            </center>
+             
+        
+              </div>
+                  
+         
+        
+        
+        </div>
+        
+      
+         
+        </form>
+        
+           
+        </div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+</div>
+  <!-- /.login-box-body -->
+</div>
+<!-- /.login-box -->
+
+<!-- jQuery 3 -->
+<script src="../../public/js/jquery.min.js"></script>
+<!-- jQuery UI 1.11.4 -->
+<!-- Bootstrap 3.3.7 -->
+<script src="../../public/js/bootstrap.min.js"></script>
+<script src="../../public/js/bootbox.min.js"></script>
+<script src="scripts/login.js"></script>
+<!-- iCheck -->
+
+</body>
+</html>
