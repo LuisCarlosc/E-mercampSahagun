@@ -1,35 +1,46 @@
-Landed by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+#E-commerce plaza de mercado pública y campesina 
 
 
-A dark, slick, modern, responsive, adjective-drenched design built around an extremely
-dynamic landing page (scroll that mofo!). Inspired by Big Picture, another design
-of mine with a similarish feel/flow, only this time I took it waaaaaay further and
-actually made it multipurpose (versus copping out and making it a one pager like I
-did last time ;) Includes multiple pages, a bunch of pre-styled elements, and all
-its Sass sources.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
 
 
-Credits:
+<p>
+La plataforma web móvil E-mercamp Sahagún permite a los comerciantes y clientes del mercado público vender y comprar productos; esta está conformada por   tres modulos  (administrador general, administrador de tienda y cliente), donde desde la vista principal podrán acceder al sistema con sus respectivas credenciales (Usuario y contraseña), desplegando las diversas opciones para cada rol.
+</p>
 
-	Demo Images:
-		Unsplash (unsplash.com)
+- #####Vista principal
+[![1.jpg](https://i.postimg.cc/43NYFThX/1.jpg)](https://postimg.cc/9DKXrKpk)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+- #####Solicitud de pre-registro (Contactanos)
+<p>Los comerciantes que quieran ser parte de E-mercamp Sahagún deben hacer una solicitud llenando un formulario.</p>
+[![2.jpg](https://i.postimg.cc/g2wzwkRX/2.jpg)](https://postimg.cc/LJpKwSx2)
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+- #####Inicio de sesión y panel del administrador general
+
+[![3.jpg](https://i.postimg.cc/CxpP8cnG/3.jpg)](https://postimg.cc/Yh8zKf30)
+
+- #####Vista principal del módulo tienda e inicio de sesión administrador de tienda
+[![4.jpg](https://i.postimg.cc/cJrFy2pN/4.jpg)](https://postimg.cc/yJCm0Q6f)
+
+- #####Vista principal del administrador  de tienda
+[![5.jpg](https://i.postimg.cc/k5Ktby8b/5.jpg)](https://postimg.cc/CZM1ykch)
+
+- #####Solicitud  de pre-registro cliente
+[![6.jpg](https://i.postimg.cc/nrzz0KsT/6.jpg)](https://postimg.cc/ygMsNZyS)
+
+- #####Inicio de sesión cliente
+<p>
+Una vez aceptada la solicitud el cliente podrá iniciar sesión desde cualquier dispositivo móvil. 
+</p>
+[![7.jpg](https://i.postimg.cc/yxk1FV5b/7.jpg)](https://postimg.cc/N2vvtwQ6)
+
+- #####Vista del panel del cliente
+ [![8.jpg](https://i.postimg.cc/XqbMvnW5/8.jpg)](https://postimg.cc/FdDCW57F)
+
+ - #####Agregar productos al carrito
+ [![9.jpg](https://i.postimg.cc/x1yXjdSv/9.jpg)](https://postimg.cc/xX8ftn88)
+
+  - #####Elegir medio de pago y realizar pago electronico
+  [![10.jpg](https://i.postimg.cc/QtVkwyyW/10.jpg)](https://postimg.cc/bDct238z)
+  
+  - #####Pedidos y reporte de compras
+  [![11.jpg](https://i.postimg.cc/g0jZ26qC/11.jpg)](https://postimg.cc/PLGx6J7y)
