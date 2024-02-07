@@ -26,12 +26,15 @@ La plataforma web móvil E-mercamp Sahagún permite a los comerciantes y cliente
 [![5.jpg](https://i.postimg.cc/k5Ktby8b/5.jpg)](https://postimg.cc/CZM1ykch)
 
 - Solicitud  de pre-registro cliente
+  
 [![6.jpg](https://i.postimg.cc/nrzz0KsT/6.jpg)](https://postimg.cc/ygMsNZyS)
 
 - Inicio de sesión cliente
+  
 <p>
 Una vez aceptada la solicitud el cliente podrá iniciar sesión desde cualquier dispositivo móvil. 
 </p>
+
 [![7.jpg](https://i.postimg.cc/yxk1FV5b/7.jpg)](https://postimg.cc/N2vvtwQ6)
 
 - Vista del panel del cliente
