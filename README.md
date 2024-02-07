@@ -1,12 +1,8 @@
 #E-commerce plaza de mercado pública y campesina 
 
-
-
-
 <p>
 La plataforma web móvil E-mercamp Sahagún permite a los comerciantes y clientes del mercado público vender y comprar productos; esta está conformada por   tres modulos  (administrador general, administrador de tienda y cliente), donde desde la vista principal podrán acceder al sistema con sus respectivas credenciales (Usuario y contraseña), desplegando las diversas opciones para cada rol.
 </p>
-
 - #####Vista principal
 [![1.jpg](https://i.postimg.cc/43NYFThX/1.jpg)](https://postimg.cc/9DKXrKpk)
 
