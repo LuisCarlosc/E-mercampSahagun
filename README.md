@@ -46,9 +46,9 @@ Una vez aceptada la solicitud el cliente podrá iniciar sesión desde cualquier 
  [![9.jpg](https://i.postimg.cc/x1yXjdSv/9.jpg)](https://postimg.cc/xX8ftn88)
 
 - Elegir medio de pago y realizar pago electronico
-- 
+  
 [![10.jpg](https://i.postimg.cc/QtVkwyyW/10.jpg)](https://postimg.cc/bDct238z)
   
  - Pedidos y reporte de compras
- - 
+  
  [![11.jpg](https://i.postimg.cc/g0jZ26qC/11.jpg)](https://postimg.cc/PLGx6J7y)
